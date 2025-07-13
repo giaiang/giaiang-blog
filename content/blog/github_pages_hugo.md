@@ -56,3 +56,8 @@ git commit -m "<自定义提交信息>"
 git push -u origin main
 ```
 访问 `https://<github名称>.github.io` 查看效果。
+
+## Hugo主题推荐
+- [xmin](https://themes.gohugo.io/themes/hugo-xmin/)
+- [bearblog](https://themes.gohugo.io/themes/hugo-bearblog/)
+- [Anubis2](https://themes.gohugo.io/themes/hugo-theme-anubis2/)

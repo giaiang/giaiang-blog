@@ -1,5 +1,5 @@
 +++
-title = "Blog"
+title = "博客"
 menu = "main"
-weight = 100
+weight = 20
 +++
